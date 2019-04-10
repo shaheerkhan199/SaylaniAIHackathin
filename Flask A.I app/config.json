@@ -1,0 +1,15 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/hospitalmanagmentsystem",
+    "prod_uri": "mysql://root:@localhost/hospitalmanagmentsystem",
+    "facebook_url": "https://www.facebook.com",
+    "youtube_url": "https://www.youtube.com",
+    "twitter_url": "https://www.twitter.com",
+    "whatsapp_url": "https://www.whatsapp.com",
+    "gmail-user": "m.shaheerkhan199@gmail.com",
+    "gmail-password": "Ma9fyd3P"
+  }
+
+}
